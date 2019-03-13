@@ -4,4 +4,4 @@
 
 	-MehImputer.py (Python Code)
 	-SourceImpute.csv (Source file for impute)
-	-Impute_output.png (Output screenshot after applying impute)
+	-Impute_output.png (Output screenshot after applying impute function)
